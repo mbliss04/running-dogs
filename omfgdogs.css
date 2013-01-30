@@ -1,7 +1,21 @@
 body {background:#ffffff url('assets/omfgdogs.gif') repeat right top;}
 
+a {
+	text-decoration: none;
+}
+
 .footer {
 	color: #008080;
-	float: right;
-	position: absolute;
+	text-align: right;
+	position:fixed;
+	width:100%;
+	bottom:0;
+	height:15px;
+	padding-top:5px;
+	background-color:#1A1A1A;
+	opacity:.9;
+	/* For IE 5-7 */  
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);  
+    /* For IE 8 */  
+    -MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";  
 }
