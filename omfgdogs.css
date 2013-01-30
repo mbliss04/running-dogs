@@ -5,17 +5,13 @@ a {
 }
 
 .footer {
-	color: #008080;
+	color: #000;
 	text-align: right;
 	position:fixed;
 	width:100%;
 	bottom:0;
-	height:15px;
+	height:20px;
 	padding-top:5px;
 	background-color:#1A1A1A;
 	opacity:.9;
-	/* For IE 5-7 */  
-    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);  
-    /* For IE 8 */  
-    -MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";  
 }
