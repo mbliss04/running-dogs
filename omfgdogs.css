@@ -2,8 +2,8 @@ body {background:#ffffff url('assets/omfgdogs.gif') repeat right top;}
 
 .footer {
 	color: #000;
-	text-decoration: none;
-	text-align: center;
+	text-decoration:none;
+	text-align:right;
 	position:fixed;
 	width:100%;
 	bottom:0;
