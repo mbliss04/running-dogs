@@ -7,6 +7,7 @@ a, a:visited {
 }
 
 .footer {
+	display:block;
 	color: #FFF;
 	text-align:right;
 	position:fixed;
