@@ -3,7 +3,7 @@ body {background:#ffffff url('assets/omfgdogs.gif') repeat right top;}
 a.footer {
 	color: #FFF;
 	text-align:right;
-	position:absolute;
+	position:fixed;
 	width:100%;
 	bottom:0;
 	background-color:#00000;
