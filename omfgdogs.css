@@ -4,12 +4,3 @@ a {
 	color: #000;
 	text-decoration: none;
 }
-
-.footer {
-	text-align: center;
-	position:fixed;
-	width:100%;
-	bottom:0;
-	height:20px;
-	padding:0 100px 5px 0;
-}
