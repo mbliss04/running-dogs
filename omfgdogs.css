@@ -1,9 +1,8 @@
 body {background:#ffffff url('assets/omfgdogs.gif') repeat right top;}
 
-a {
+a, a:visited {
 	font-size:300%;
 	margin:10px;
-	background-color:#000;
 	text-decoration:none;
 }
 
