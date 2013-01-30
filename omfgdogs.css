@@ -1,6 +1,6 @@
 body {background:#ffffff url('assets/omfgdogs.gif') repeat right top;}
 
-a:visited {
+a {
 	text-decoration:none;
 }
 
@@ -10,6 +10,6 @@ a:visited {
 	position:fixed;
 	width:100%;
 	bottom:0;
-	height:20px;
+	background-color:#00000;
 	padding:0 100px 5px 0;
 }
