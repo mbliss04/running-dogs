@@ -1,18 +1,16 @@
-body {background:#ffffff url('assets/omfgdogs.gif') repeat right top;}
-
-a, a:visited {
-	font-size:150%;
-	margin:10px;
-	text-decoration:none;
+body {
+	font:"Arial", Helvetica, sans-serif;
+	background:#ffffff url('assets/omfgdogs.gif') repeat right top;	
 }
 
-.footer {
-	display:block;
-	color: #FFF;
-	text-align:right;
+div {
+	display: block;
+}
+
+#footer {
+	color:#FFF;
 	position:fixed;
 	width:100%;
 	bottom:0;
-	background-color:#00000;
-	padding:0 100px 5px 0;
+	background-color:#000;
 }
