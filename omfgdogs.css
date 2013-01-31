@@ -3,8 +3,8 @@ body {
 	background:#ffffff url('assets/omfgdogs.gif') repeat right top;	
 }
 
-div {
-	display: block;
+a, a:visited {
+	size:200%;
 }
 
 #footer {
