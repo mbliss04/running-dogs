@@ -3,6 +3,10 @@ body {
 	background:#ffffff url('assets/omfgdogs.gif') repeat right top;	
 }
 
+p {
+	text-align:right;
+}
+
 a {
 	color:#FFFF00;
 	text-decoration:none;
