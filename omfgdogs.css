@@ -3,16 +3,16 @@ body {
 	background:#ffffff url('assets/omfgdogs.gif') repeat right top;	
 }
 
+a {
+	color:#FFFF00;
+	text-decoration:none;
+}
+
 #footer {
 	display:block;
 	text-align: right;
 	position:fixed;
 	width:100%;
 	bottom:0;
-}
-
-#footer:a {
-	color: #FFFF00;
-	size:200%;
-	text-decoration:none;
+	margin:0 10px 5px 0;
 }
